@@ -1,0 +1,31 @@
+header {
+  background-color: #5c0080;
+  margin-bottom: 4rem;
+}
+
+.header-wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+  display: flex;
+  padding: 1rem 0;
+  color: #ffffff;
+}
+
+.header-wrapper h1 {
+  font-size: 2rem;
+}
+
+.image-gallery-wrapper {
+  margin-top: 5rem;
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+  border: 1px solid rgb(146, 129, 242);
+  box-shadow: #2b15453d 1px 10px 10px 5px;
+}
+
+@media only screen and (min-device-width: 375px) {
+  .header-wrapper {
+    padding: 1rem;
+  }
+}
