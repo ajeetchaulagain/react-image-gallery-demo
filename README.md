@@ -1,3 +1,7 @@
+# Introduction
+This project demonstrates the use of react-image-gallery
+[View demo of the app](https://react-image-gallery-demo.ajeetchaulagain.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
