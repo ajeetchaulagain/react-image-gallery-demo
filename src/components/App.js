@@ -10,7 +10,7 @@ function App() {
         </div>
       </header>
       <div className="image-gallery-wrapper">
-        <ImageGallery items={images} autoPlay={true} showThumbnails={false} />
+        <ImageGallery items={images} />
       </div>
     </div>
   );
